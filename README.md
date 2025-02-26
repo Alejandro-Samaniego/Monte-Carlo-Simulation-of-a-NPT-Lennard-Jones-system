@@ -4,11 +4,11 @@ The characteristics of the simulation are presented in the leap-lj.data file whi
 A series of MC simulations at T∗ = 2.0 and pressures from P∗ = 0.15 to P∗ = 15 have been carried out.  
 The data extracted from the simulation was used to calculate thermodynamical properties such as: the Energy per atom, the Virial pressure and the radial distribution function.  
 ![Alt text](Data/Figures/BOX_LENGTH_EVOL.jpg)
-![Alt text](Data/Figures/gr.jpg)
 ![Alt text](Data/Figures/p_p_015.jpg)
+![Alt text](Data/Figures/rho_p_015.jpg)
+![Alt text](Data/Figures/u_p_015.jpg)
+![Alt text](Data/Figures/gr.jpg)
 ![Alt text](Data/Figures/pvirial.jpg)
 ![Alt text](Data/Figures/rho.jpg)
 ![Alt text](Data/Figures/rho_no_ideal_gas.jpg)
-![Alt text](Data/Figures/rho_p_015.jpg)
-![Alt text](Data/Figures/u_p_015.jpg)
 ![Alt text](Data/Figures/uperatom.jpg)
